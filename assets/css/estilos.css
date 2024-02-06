@@ -1,0 +1,41 @@
+h1{
+    color: gray;
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+p{
+    color: crimson;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h2{
+    color: blue;
+    font-size: 30px;
+  
+}
+
+h3{
+    color: gray;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+img{
+   
+    width: 150px;
+    border: 5px solid black;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
